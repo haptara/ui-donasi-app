@@ -1,0 +1,16 @@
+hero slider
+panel info donatur
+kategori
+campaign terbaru
+banner
+testimonial
+media patner
+
+#E3FDFD
+#CBF1F5
+#A6E3E9
+#71C9CE
+
+reff :
+https://dribbble.com/shots/17606060-Landing-Page-Website-Donasi/attachments/12756458?mode=media
+https://landingpedia.com/listing/template-donasi/
